@@ -27,4 +27,4 @@
 
 4. Aktifkan modul MySQL dan Apache server. Setelah itu buka alamat pada browser : http://localhost/phpmyadmin/
 
-5. Buka CMD -> buka folder path dimana mysql terinstall contoh: cd c:\xampp\mysql\bin\mysql -> lalu lakukan perintah -u root pada path tersebut.
+5. Buka CMD -> buka folder path dimana mysql terinstall contoh: cd c:\xampp\mysql\bin -> lalu lakukan perintah mysql -u root pada path tersebut.
