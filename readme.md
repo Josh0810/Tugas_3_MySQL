@@ -1,5 +1,5 @@
 # Tugas 3 Mysql
-(NIOMIC)[https://niomic.id]
+[NIOMIC](https://niomic.id)
 
 
 # Soal
